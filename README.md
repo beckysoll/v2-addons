@@ -16,7 +16,7 @@
 | [Configurable Composer Manager](https://github.com/JohnathonKoster/statamic-configurable-composer-manager) | John Koster | Provides a Composer manager that can be configured based on a site's environment. Useful for Windows development. |
 | [Currency](https://github.com/edalzell/Currency) | Erin Dalzell | Modifier to output a number as a currency |
 | [Duplicate](https://github.com/dannyuk1982/statamic-Duplicate) | Danny Richardson | Adds duplication functionality for entries and pages to the CP |
-| [Expires On](https://github.com/beckysoll/statamic-expires-on) | Becky Soll  | Modifier that checks for an expiration date, outputs items that don't have one, or that have one which is in the future. |
+| [Expires On](https://github.com/beckysoll/statamic-expires-on) | Becky Soll  | Modifier for tag pairs that cannot be filtered with conditions (aka not a collection or taxonomy) that checks for an expiration date, outputs items in the loop that either don't have one, or have one which is in the future. |
 | [Disqus](https://github.com/subpixel-ch/statamic-disqus) | subpixel  | Add Disqus comments to your site |
 | [ExtendedSection](https://github.com/subpixel-ch/statamic-extended_section) | subpixel | Colorize your sections |
 | [Favicon](https://github.com/subpixel-ch/statamic-favicon) | subpixel | Generate beautiful favicons for your statamic page |
